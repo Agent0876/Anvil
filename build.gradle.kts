@@ -3,7 +3,7 @@ plugins {
     alias(libs.plugins.maven.publish)
 }
 
-group   = "io.github.agent0876"
+group   = "io.github.moltenmc"
 version = "1.0.0"
 
 repositories {
@@ -29,7 +29,7 @@ mavenPublishing {
     signAllPublications()
 
     coordinates(
-        groupId    = "io.github.agent0876",
+        groupId    = "io.github.moltenmc",
         artifactId = "anvil",
         version    = "1.0.0"
     )
