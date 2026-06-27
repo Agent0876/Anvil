@@ -12,6 +12,7 @@ repositories {
 }
 
 dependencies {
+    implementation("org.lz4:lz4-java:1.8.0")
     testImplementation(libs.junit.jupiter)
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 }
