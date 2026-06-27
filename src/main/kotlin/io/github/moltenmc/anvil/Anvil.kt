@@ -1,4 +1,4 @@
-package io.github.agent0876.anvil
+package io.github.moltenmc.anvil
 
 import net.jpountz.lz4.LZ4BlockInputStream
 import net.jpountz.lz4.LZ4BlockOutputStream
